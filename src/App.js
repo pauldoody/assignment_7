@@ -3,10 +3,13 @@ import './App.css';
 import Fetcher from './Fetcher';
 import Hooks from './Hooks';
 
+//import Skeleton from './@material-ui/lab/Skeleton';
+
 function App() {
   return (
     <div className="App">
       <Hooks/>
+	  
     </div>
   );
 }
